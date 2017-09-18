@@ -1,0 +1,14 @@
+table.weather-table th{
+	text-align: center;
+}
+table.weather-table td{
+	vertical-align: bottom;
+	text-align: center;
+}
+table.weather-table tr td:first-child{
+	vertical-align: middle;	
+}
+.map{
+	width: 350px;
+	height: 200px;
+}
